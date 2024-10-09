@@ -60,3 +60,53 @@ main {
     padding: 80px 97px;
     margin-top: 74px;
 }
+
+.develop-section-title {
+    font-size: 32px;
+    font-weight: 800;
+    text-align: center;
+    color: rgb(13, 19, 33);
+}
+
+.develop-section-description {
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    color: rgb(112, 106, 106);
+}
+
+.develop-section-part-one {
+    border-radius: 16px;
+    background: linear-gradient(90.00deg, rgb(255, 255, 255), rgba(255, 255, 255, 0) 100%);
+    display: flex;
+    padding: 48px 48px;
+    gap: 100px;
+    margin-top: 48px;
+}
+
+.develop-section-part-one-title {
+    font-size: 24px;
+    font-weight: 700;
+    color: rgba(13, 19, 33, 0.7);
+}
+
+.develop-section-part-one-description {
+    font-size: 16px;
+    font-weight: 400;
+    color: rgb(112, 106, 106);
+}
+
+.develop-section-btn {
+    font-size: 20px;
+    font-weight: 600;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 1px solid rgb(87, 88, 92);
+    opacity: 0.7;
+
+}
+
+.develop-learn-more-btn {
+    color: rgb(112, 106, 106);
+    text-decoration: none;
+}
