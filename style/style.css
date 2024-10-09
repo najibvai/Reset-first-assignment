@@ -136,3 +136,57 @@ main {
     border-radius: 16px;
     padding: 32px;
 }
+
+/* ---------------------Current Target section -------------------------*/
+.Current-Target-section {
+    margin-top: 151px;
+}
+
+.Current-Target-section-title {
+    text-align: center;
+    font-size: 32px;
+    font-weight: 800;
+    color: rgb(13, 19, 33);
+}
+
+.Current-Target-section-description {
+    font-size: 16px;
+    font-weight: 400;
+    color: rgb(112, 106, 106);
+    text-align: center;
+    margin: 24px 144px 48px 144px;
+}
+
+.Current-Target-section-card {
+    display: flex;
+    gap: 24px;
+}
+
+.Current-Target-section-first-card {
+    border-radius: 16px;
+    background: rgba(255, 76, 30, 0.05);
+    padding: 40px;
+}
+
+.Current-Target-section-first-card-img {
+    width: 56px;
+    height: 56px;
+}
+
+.Current-Target-section-card-title {
+    font-size: 24px;
+    font-weight: 800;
+    color: black;
+}
+
+.Current-Target-section-card-description {
+    font-size: 16px;
+    font-weight: 400;
+    color: rgb(112, 106, 106);
+}
+
+.current-terget-btn {
+    font-size: 16px;
+    font-weight: 700;
+    color: black;
+}
