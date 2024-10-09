@@ -110,3 +110,29 @@ main {
     color: rgb(112, 106, 106);
     text-decoration: none;
 }
+
+/* ----------------------Inspiration section --------------------------*/
+.Inspiration-section {
+    text-align: center;
+    margin-top: 90px;
+}
+
+.Inspiration-section-title {
+    font-size: 32px;
+    font-weight: 800;
+    color: rgb(13, 19, 33);
+}
+
+.Inspiration-section-description {
+    font-size: 16px;
+    font-weight: 400;
+    color: rgb(112, 106, 106);
+    margin: 24px 144px 48px 144px;
+}
+
+.Inspiration-section-yt-video {
+    box-sizing: border-box;
+    border: 1px solid rgba(13, 19, 33, 0.2);
+    border-radius: 16px;
+    padding: 32px;
+}
