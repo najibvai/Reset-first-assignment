@@ -190,3 +190,56 @@ main {
     font-weight: 700;
     color: black;
 }
+
+/*-------------------------- I need Support section-------------------------- */
+.support-banner {
+    background-image: url(../assets/handshake.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    margin-top: 49px;
+    border-radius: 16px;
+    background: rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2);
+    padding: 44px 48px 64px 48px;
+}
+.support-section{
+    /* margin: 64px 48px; */
+}
+
+.support-section-title {
+    font-size: 32px;
+    font-weight: 700;
+    color: rgb(255, 255, 255);
+}
+
+.support-section-description {
+    font-size: 16px;
+    font-weight: 400;
+    color: rgb(184, 179, 179);
+    margin: 0 219px;
+}
+.support-section-search-field{
+    margin-top: 24px;
+}
+
+.support-search-field {
+    font-size: 16px;
+    font-weight: 400;
+    color: rgb(112, 106, 106);
+    padding: 19px 230px 19px 20px;
+    box-sizing: border-box;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    border-radius: 8px;
+    background: rgb(255, 255, 255);
+}
+
+.support-submit-btn {
+    font-size: 20px;
+    font-weight: 600;
+    color: black;
+    padding: 17px 20px;
+    border-radius: 8px;
+    background: rgb(255, 255, 255);
+    border: none;
+}
